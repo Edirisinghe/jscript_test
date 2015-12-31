@@ -16,8 +16,8 @@ test(0,0);
 function test(var_1,var_2){
 
 
-var today = new Date();
-var from = new Date("2015/12/31");
+ today = new Date();
+ from = new Date("2015/12/31");
 
 //console.log(from);
 
@@ -38,11 +38,16 @@ var s2 = new String("Buddhi");
 //console.log(b!==b);
 
 
+point(var_1,var_2);
+
+
 }
 
 
 
 function point(x,y){
+
+	console.log(today);
 
 	if(x===undefined){
 		x=320;
