@@ -19,7 +19,7 @@ function test(var_1,var_2){
 var today = new Date();
 var from = new Date("2015/12/31");
 
-console.log(from);
+//console.log(from);
 
 
 //var s1 = new String("Buddhi");
