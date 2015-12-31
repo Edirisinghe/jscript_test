@@ -22,8 +22,8 @@ var from = new Date("2015/12/31");
 console.log(from);
 
 
-//var s1 = new String("Buddhi");
-//var s2 = new String("Buddhi");
+var s1 = new String("Buddhi");
+var s2 = new String("Buddhi");
 
 //console.log("Test object :" + var_2);
 
