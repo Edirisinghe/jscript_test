@@ -42,12 +42,6 @@ console.log(from);
 
 
 
-function isRealyNaN(value){
-	return value!==value;
-
-}
-
-
 function point(x,y){
 
 	if(x===undefined){
